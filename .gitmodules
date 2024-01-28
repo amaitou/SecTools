@@ -1,0 +1,12 @@
+[submodule "Xorcry"]
+	path = Xorcry
+	url = git@github.com:amaitou/Xorcry.git
+[submodule "Md5Ghost"]
+	path = Md5Ghost
+	url = git@github.com:amaitou/Md5Ghost.git
+[submodule "AffineCipher"]
+	path = AffineCipher
+	url = git@github.com:amaitou/AffineCipher.git
+[submodule "DarkSpy"]
+	path = DarkSpy
+	url = git@github.com:amaitou/DarkSpy.git

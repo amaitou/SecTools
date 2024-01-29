@@ -11,6 +11,6 @@ SecTools is a collection of simple yet effective penetration testing tools for v
 
 # Tools
 
-Discover a diverse collection of penetration testing and cybersecurity tools in this repository. These tools are crafted using Python (There might be other languages in the upcoming tools), addressing various aspects of cybersecurity, including hash cracking, reverse shell, cryptography, malware, and more. Each tool is designed with a specific concept in the realm of security, providing a comprehensive resource for those engaged in penetration testing and cybersecurity exploration.
+Discover a diverse collection of penetration testing and cybersecurity tools in this repository. These tools are crafted using Python (There might be other languages in the upcoming tools), addressing various aspects of cybersecurity, including hash cracking, reverse shell, cryptography, malware, and more. <br /> Each tool is designed with a specific concept in the realm of security, providing a comprehensive resource for those engaged in penetration testing and cybersecurity exploration.
 
 ---
